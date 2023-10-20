@@ -60,29 +60,43 @@
       "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
       "descricao": "1 mil visualizações",
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 9
     },
     {
       "titulo": "Educação coorporativa",
       "descricao": "9 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 10
     },
     {
       "titulo": "Educação coorporativa",
       "descricao": "4 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 11
     },
     {
       "titulo": "Educação coorporativa",
       "descricao": "7 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 12
+    },
+    {
+      "titulo": "Entendendo o ChatGPT: Como Funciona e o Poder dos LLMs",
+      "descricao": "30 mil visualizações",
+      "url": "https://youtube.com/embed/WcyG9mNR1UA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13
+    },
+    {
+      "titulo": "Tutorial MIDJOURNEY: Como usar e fazer Prompts Perfeitos",
+      "descricao": "1.3 mil visualizações",
+      "url": "https://youtube.com/embed/QUoyCfFQUqI",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 14
     }
   ]
 }
