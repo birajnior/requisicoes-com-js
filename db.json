@@ -97,6 +97,20 @@
       "url": "https://youtube.com/embed/QUoyCfFQUqI",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 14
+    },
+    {
+      "titulo": "Guia de Carreira ANGULAR",
+      "descricao": "7 mil visualizações",
+      "url": "https://youtube.com/embed/mXtDHJRVoJo",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 15
+    },
+    {
+      "titulo": "Guia de Carreira Front-end",
+      "descricao": "3 mil visualizações",
+      "url": "https://youtube.com/embed/fpth65ts3cw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 16
     }
   ]
 }
