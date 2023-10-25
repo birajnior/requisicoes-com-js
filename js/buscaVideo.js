@@ -1,10 +1,9 @@
 import { conectaApi } from "./conectaApi.js";
 import constroiCard from "./mostrarVideos.js";
+const inputPesquisa = document.querySelector("#pesquisar");
 
 async function buscaVideo(event) {
-  event.preventDefault();
-
-  const dadosDePesquisa = document.querySelector("[data-pesquisa]").value;
+  const dadosDePesquisa = inputPesquisa.value;
   const busca = await conectaApi.buscaVideo(dadosDePesquisa);
 
   const lista = document.querySelector("[data-lista]");
@@ -29,5 +28,14 @@ async function buscaVideo(event) {
   }
 }
 
+inputPesquisa.addEventListener("keydown", (event) => {
+  if (event.key == "Enter" && inputPesquisa.value) {
+    buscaVideo();
+  }
+});
+
 const botaoDePesquisa = document.querySelector("[data-botao-pesquisa]");
-botaoDePesquisa.addEventListener("click", (event) => buscaVideo(event));
+botaoDePesquisa.addEventListener("click", (event) => {
+  event.preventDefault();
+  buscaVideo();
+});
